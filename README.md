@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pauline-wanjiku
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Javascript and react
+- 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me paulinendungushiko96@gmail.com
 
 <!---
